@@ -19,3 +19,5 @@ Instructions to Run:
 1. Open the terminal in the project directory.
 2. Run the tests with the following command:
 python test_main.py
+
+Author: Lorenzo B. Kollin
